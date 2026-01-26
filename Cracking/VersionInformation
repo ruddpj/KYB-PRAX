@@ -1,0 +1,4 @@
+#!/bin/python
+
+with open("example.cimg", "wb") as file:
+    #tu ide zapis do suboru
